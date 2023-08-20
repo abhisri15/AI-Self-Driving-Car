@@ -1,6 +1,6 @@
 # AI Self-Driving Car
 
-<img src="Map%20and%20Graph/Path-3.png" width="500" height="600">
+<img src="Map%20and%20Graph/Path-3.png" width="600" height="600">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -74,15 +74,15 @@ Deep Q Learning forms the core of the AI's decision-making process. This reinfor
 Gain insights into the AI Self-Driving Car's performance and progression over time. Below are visualizations of the AI agent's scores and statistics in different maps:
 
 ### Map 1: 
-<img src="Map%20and%20Graph/Path-1.png" width="500" height="600">
+Map 1: <img src="Map%20and%20Graph/Path-1.png" width="600" height="600">
 Stats: <img src="Map%20and%20Graph/Graph-3.png" width="400" height="400">
 
 ### Map 2
-Map 2: <img src="Map%20and%20Graph/Path-2.png" width="500" height="600">
+Map 2: <img src="Map%20and%20Graph/Path-2.png" width="600" height="600">
 Stats: <img src="Map%20and%20Graph/Graph-2.png" width="400" height="400">
 
 ### Map 3
-Map 3: <img src="Map%20and%20Graph/Path-3.png" width="500" height="600">
+Map 3: <img src="Map%20and%20Graph/Path-3.png" width="600" height="600">
 Stats: <img src="Map%20and%20Graph/Graph-3.png" width="400" height="400">
 
 Current Task: The car's initial task is to reach the top-left corner of the map. Once achieved, the destination switches automatically to the bottom-right corner. The cycle repeats, alternating between top-left and bottom-right.
