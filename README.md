@@ -1,6 +1,6 @@
 # AI Self-Driving Car
 
-![Project Image](Map and Graph/Path-3.png)
+![Project Image](Map%20and%20Graph/Path-3.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -74,16 +74,16 @@ Deep Q Learning forms the core of the AI's decision-making process. This reinfor
 Gain insights into the AI Self-Driving Car's performance and progression over time. Below are visualizations of the AI agent's scores and statistics in different maps:
 
 ### Map 1
-Map 1: ![Map-1](Map and Graph/Path-1.png)
-Stats: ![Stats](Map and Graph/Graph-3.png)
+Map 1: ![Map-1](Map%20and%20Graph/Path-1.png)
+Stats: ![Stats](Map%20and%20Graph/Graph-3.png)
 
 ### Map 2
-Map 2: ![Map-2](Map and Graph/Path-2.png)
-Stats:  ![Stats](Map and Graph/Graph-2.png)
+Map 2: ![Map-2](Map%20and%20Graph/Path-2.png)
+Stats:  ![Stats](Map%20and%20Graph/Graph-2.png)
 
 ### Map 3
-Map 3: ![Map-3](Map and Graph/Path-3.png)
-Stats:  ![Stats](Map and Graph/Graph-3.png)
+Map 3: ![Map-3](Map%20and%20Graph/Path-3.png)
+Stats:  ![Stats](Map%20and%20Graph/Graph-3.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
